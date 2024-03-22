@@ -1,0 +1,18 @@
+html{
+    font-size: 30px;
+}
+.color{
+    color: coral;
+}
+.FontSize{
+    font-size: 2rem;
+}
+.FontWeight{
+    font-weight: 900;
+}
+.FontFamily{
+    font-family:'Courier New', Courier, monospace;
+}
+.TextAlign{
+    text-align: riight;
+}

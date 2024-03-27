@@ -5,4 +5,6 @@ h1,h2{
 .box>.done{
     color: firebrick;
 }
-
+.box .list{
+    color:blue ;
+}
